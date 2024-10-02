@@ -1,0 +1,10 @@
+.nice{
+    height: 150px;
+    color: white;
+    text-align: center;
+   background-color: #213343;
+    justify-content: center;
+}
+.happy{
+    border: 1px solid white;
+}
